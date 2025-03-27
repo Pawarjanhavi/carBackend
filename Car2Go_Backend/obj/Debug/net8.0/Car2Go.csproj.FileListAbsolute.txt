@@ -1,0 +1,687 @@
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\appsettings.Development.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\appsettings.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Car2Go.exe
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Car2Go.deps.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Car2Go.runtimeconfig.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Azure.Core.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Azure.Identity.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Humanizer.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Mono.TextTemplating.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.ClientModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.CodeDom.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Composition.Convention.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Composition.Hosting.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Composition.Runtime.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Formats.Asn1.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.IO.Pipelines.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Security.Permissions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Text.Json.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.csproj.AssemblyReference.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfoInputs.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfo.cs
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.csproj.CoreCompileInputs.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cs
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets.build.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets.development.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.Car2Go.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.build.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\scopedcss\bundle\Car2Go.styles.css
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.csproj.Up2Date
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\refint\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\Car2Go.genruntimeconfig.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\Car2Go\obj\Debug\net8.0\ref\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\appsettings.Development.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\appsettings.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.exe
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.deps.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.runtimeconfig.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Azure.Core.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Azure.Identity.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Humanizer.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Mono.TextTemplating.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.ClientModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.CodeDom.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Convention.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Hosting.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Runtime.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Formats.Asn1.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.IO.Pipelines.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Security.Permissions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Text.Json.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.AssemblyReference.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfoInputs.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfo.cs
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.CoreCompileInputs.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cs
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.sourcelink.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.build.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.development.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.Car2Go.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.build.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Car2Go.props
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\scopedcss\bundle\Car2Go.styles.css
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.Up2Date
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\refint\Car2Go.dll
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.genruntimeconfig.cache
+Z:\FSD .Net + Angular training\Case Study\CRS_WebAPI\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\ref\Car2Go.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\log4net.config
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\appsettings.Development.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\appsettings.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.exe
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.deps.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.runtimeconfig.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Azure.Core.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Azure.Identity.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\CloudinaryDotNet.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Humanizer.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\log4net.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\log4net.Ext.Json.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Mono.TextTemplating.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.ClientModel.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.CodeDom.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Convention.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Hosting.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.Runtime.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Formats.Asn1.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.IO.Pipelines.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Security.Permissions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Text.Json.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.AssemblyReference.cache
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfoInputs.cache
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfo.cs
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.CoreCompileInputs.cache
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cs
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cache
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.sourcelink.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.build.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.development.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.Car2Go.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.build.Car2Go.props
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Car2Go.props
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Car2Go.props
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\scopedcss\bundle\Car2Go.styles.css
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.csproj.Up2Date
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\refint\Car2Go.dll
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\Car2Go.genruntimeconfig.cache
+Z:\FSD .Net + Angular training\FSD-Project\FSD-Angular-and-.Net-Project\Car2Go\obj\Debug\net8.0\ref\Car2Go.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\log4net.config
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\appsettings.Development.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\appsettings.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Car2Go.exe
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Car2Go.deps.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Car2Go.runtimeconfig.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Azure.Core.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Azure.Identity.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\CloudinaryDotNet.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Humanizer.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\log4net.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\log4net.Ext.Json.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Mono.TextTemplating.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.ClientModel.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.CodeDom.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Composition.Convention.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Composition.Hosting.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Composition.Runtime.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Formats.Asn1.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.IO.Pipelines.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Security.Permissions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Text.Json.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.csproj.AssemblyReference.cache
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.GeneratedMSBuildEditorConfig.editorconfig
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfoInputs.cache
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.AssemblyInfo.cs
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.csproj.CoreCompileInputs.cache
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cs
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.MvcApplicationPartsAssemblyInfo.cache
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.sourcelink.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets.build.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets.development.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.Car2Go.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.build.Car2Go.props
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Car2Go.props
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Car2Go.props
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\scopedcss\bundle\Car2Go.styles.css
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.csproj.Up2Date
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\refint\Car2Go.dll
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.pdb
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\Car2Go.genruntimeconfig.cache
+Z:\FSD .Net + Angular training\CRS-Car2Go\Car2Go\obj\Debug\net8.0\ref\Car2Go.dll

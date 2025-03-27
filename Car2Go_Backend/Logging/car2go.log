@@ -1,0 +1,31 @@
+INFO  08:21:47 No error found.
+INFO  08:22:07 No error found.
+INFO  10:20:12 No error found.
+INFO  10:31:07 No error found.
+INFO  10:37:18 User not found
+INFO  10:42:43 No error found.
+INFO  10:56:52 No error found.
+INFO  10:58:41 No error found.
+ERROR 10:59:51 User is not found
+ERROR 07:47:17 Car with company:abc is not found
+ERROR 07:47:37 Car with model:hyundai i20 is not found
+ERROR 07:50:30 Car with model:hyundaii20 is not found
+ERROR 07:54:05 Car with price:2000 is not found
+ERROR 07:54:40 Car is not found with availability status 
+ERROR 07:54:45 Car is not found with availability status 
+ERROR 08:31:38 Car with state:Madhya Pradesh is not found
+ERROR 08:32:00 Car with state:Madhya Pradesh is not found
+ERROR 08:33:20 Car with city:indore and state:Maharshtra is not found
+ERROR 09:35:51 Car with make:hyundai and model:hyundai creta is not found
+ERROR 09:39:29 Car with price range between 2000 to 3000 is not found
+ERROR 09:41:12 Car with make:hyundai  and colour:white is not found
+ERROR 09:42:45 Car with make:hyundai  and colour:white is not found
+ERROR 09:42:55 Car with make:hyundai  and colour:white is not found
+ERROR 09:42:59 Car with make:hyundai  and colour:white is not found
+ERROR 09:44:33 Car with make:honda and price:3000 is not found
+ERROR 09:44:57 Car with make:honda and seats:8 is not found
+ERROR 09:45:04 Car with make:honda and seats:7 is not found
+ERROR 09:45:28 Car with make:honda and available staus:False is not found
+ERROR 09:45:49 Car with make:maruti and available date:26-11-2024 is not found
+ERROR 09:45:54 Car with make:maruti and available date:24-11-2024 is not found
+ERROR 10:17:42 Car with availability:True and available date:28-11-2024 is not found
