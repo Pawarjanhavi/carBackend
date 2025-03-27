@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.aboutus-fullpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px;
+  background: linear-gradient(135deg, #2e2e2e 0%, #000 100%);
+  color: white;
+  text-align: center;
+}
+
+.aboutus-fullpage h2 {
+  font-size: 38px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #ff6347; /* Tomato color for the heading */
+}
+
+.aboutus-fullpage p,
+.aboutus-fullpage ul,
+.aboutus-fullpage li,
+.aboutus-fullpage a {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.aboutus-fullpage ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.aboutus-fullpage li {
+  margin-bottom: 10px;
+}
+
+.aboutus-fullpage a {
+  color: #ff6347; /* Tomato color for links */
+  text-decoration: none;
+}
+
+.aboutus-fullpage a:hover {
+  text-decoration: underline;
+}
+
+.aboutus-fullpage p {
+  max-width: 800px;
+  margin-bottom: 20px;
+}
+
+.aboutus-fullpage ul {
+  max-width: 800px;
+}
+
+.aboutus-fullpage li {
+  margin-bottom: 10px;
+}
+
+.aboutus-fullpage .contact-info {
+  margin-top: 20px;
+  font-style: italic;
+}

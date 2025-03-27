@@ -1,0 +1,61 @@
+<app-navigation-bar></app-navigation-bar>
+
+<main>
+  <div class="background"></div>
+  <div class="login-form">
+    <div class="project-logo">
+      <img src="/images/carlogo.png" alt="Car2Go Logo" class="project-logo-img">
+    </div>
+    <h2 style="color: #3e0303;">Login</h2>
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+      <!-- Email Input -->
+      <div>
+        <label for="email">Email:</label>
+        <input
+          type="email"
+          id="email"
+          formControlName="email"
+          placeholder="Enter your email"
+          required
+        />
+        <div *ngIf="loginForm.get('email')?.invalid && loginForm.get('email')?.touched">
+          <small *ngIf="loginForm.get('email')?.errors?.['required']" style="color: red;">
+            Email is required.
+          </small>
+          <small *ngIf="loginForm.get('email')?.errors?.['email']" style="color: red;">
+            Enter a valid email address.
+          </small>
+        </div>
+      </div>
+      <!-- Password Input -->
+      <div>
+        <label for="password">Password:</label>
+        <input
+          type="password"
+          id="password"
+          formControlName="password"
+          placeholder="Enter your password"
+          required
+        />
+        <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched">
+          <small *ngIf="loginForm.get('password')?.errors?.['required']" style="color: red;">
+            Password is required.
+          </small>
+          <small *ngIf="loginForm.get('password')?.errors?.['minlength']" style="color: red;">
+            Password must be at least 6 characters long.
+          </small>
+          <small *ngIf="loginForm.get('password')?.errors?.['maxlength']" style="color: red;">
+            Password cannot exceed 20 characters.
+          </small>
+        </div>
+      </div>
+      <!-- Submit Button -->
+      <button style="margin-top: 10px;" type="submit" [disabled]="loginForm.invalid">Login</button>
+    </form>
+    <div style="display: flex;">
+      <p style="color: #323232; margin: 20px 0 0 10px;">Don't have an account?</p>
+      <a style="margin: 20px 0 0 65px; color: #007bff;" class="nav-link" routerLink="/app-register"
+        routerLinkActive="active">Register Here</a>
+    </div>
+  </div>
+</main>

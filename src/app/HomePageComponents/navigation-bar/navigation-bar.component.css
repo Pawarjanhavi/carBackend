@@ -1,0 +1,43 @@
+/* Navbar styling */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9efef;
+    height: 76px;
+    /* padding: 10px; */
+  }
+  
+  .navbar-brand img {
+    margin-left: 0px;
+    /* height: 60px; */
+  }
+  
+  .nav-link {
+    font-weight: 500;
+    color: #000;
+  }
+  
+  .nav-link.text-danger {
+    color: #dc3545;
+  }
+  
+  .nav-link:hover {
+    color: #dc3545;
+  }
+  
+  /* For the toggler button */
+  .navbar-toggler-icon {
+    background-color: #dc3545;
+  }
+  
+  /* Login / Sign Up button */
+  .btn-outline-primary {
+    border-color: #007bff;
+    color: #007bff;
+    margin-right: 40px;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  

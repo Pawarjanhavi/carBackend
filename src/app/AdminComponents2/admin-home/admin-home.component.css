@@ -1,0 +1,181 @@
+/* General Styles */
+body {
+    background-color: black; /* Set background color of the entire page to black */
+    color: white; /* Ensure default text color is white for readability */
+    font-family: 'Roboto', sans-serif; /* Font style */
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    color: #1E90FF; /* Default link color for visibility */
+  }
+  
+  a:hover {
+    color: #FFA500; /* Link hover color */
+  }
+  
+  /* Sidebar Styles */
+  .sidebar {
+    height: 100%;
+    width: 250px; /* Fixed width */
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #f9efef; /* Background color */
+    overflow-x: hidden;
+    padding-top: 60px;
+    color: white;
+    font-family: 'Roboto', sans-serif; /* Font style */
+  }
+  
+  .sidebar a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #060606; /* Text color */
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    color: #ffcccb; /* Lighter color on hover */
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #f9efef; /* Same as sidebar */
+    padding: 10px;
+    text-align: right;
+    padding-right: 20px;
+  }
+  
+  /* Main Content Styles */
+  .container {
+    margin-left: 280px; /* Increased margin for better alignment */
+    max-width: calc(100% - 300px);
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent background for contrast */
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(251, 250, 250, 0.1);
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Font style */
+  }
+  
+  /* Content styling */
+  .content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the left */
+  }
+  
+  /* Heading styling */
+  h1 {
+    color: #f1f1f1; /* White color for heading */
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-weight: bold; /* Make h3 bold */
+    color: #f8ebeb; /* White color for h3 */
+  }
+  
+  /* Specific chart headings */
+  .chart h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold; /* Make h3 bold */
+  }
+  
+  /* Specific styling for 'Car Statistics' and 'Miles Statistics' headings */
+  .chart:nth-child(1) h3 {
+    color: black; /* Make 'Miles Statistics' heading black */
+  }
+  
+  .chart:nth-child(2) h3 {
+    color: black; /* Make 'Car Statistics' heading black */
+  }
+  
+  /* Paragraph styling */
+  p {
+    color: #dddddd; /* Light grey color for text */
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  /* Cards styling */
+  .cards {
+    display: flex;
+    justify-content: flex-start; /* Align cards to the left */
+    flex-wrap: wrap;
+    gap: 40px; /* Add space between cards */
+  }
+  
+  .card {
+    color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 5px;
+    width: 180px; /* Reduced width */
+    height: 180px; /* Reduced height to make it square */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Darker shadow for better contrast */
+    transition: transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card:nth-child(1) {
+    /* Maroon background color */
+    /* background-color: #1b0101; */
+    background-color: #a90b0b;
+  }
+  
+  .card:nth-child(2) {
+    background-color: #570412; /* Darker maroon background color */
+  }
+  
+  .card:nth-child(3) {
+    /* Maroon background color */
+    /* background-color: #1b0101; */
+    background-color: #a90b0b;
+  }
+  
+  .card:nth-child(4) {
+    background-color: #570412; /* Darker maroon background color */
+  }
+  
+  .card h3 {
+    margin-bottom: 10px;
+    font-size: 18px; /* Reduced font size */
+    font-weight: bold; /* Make card headings bold */
+  }
+  
+  .card p {
+    font-size: 24px; /* Reduced font size */
+    font-weight: normal; /* Make numbers non-bold */
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Charts styling */
+  .charts {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .chart {
+    width: 45%;
+  }
+  

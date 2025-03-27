@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contactus-fullpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Move content towards the top */
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px 20px 20px 20px; /* Adjusted padding to balance the spacing */
+  background: linear-gradient(135deg, #2e2e2e 0%, #000 100%);
+  color: white; /* White text for contrast */
+  text-align: center;
+}
+
+.contactus-fullpage h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px; /* Added margin for more space */
+  color: #d82525; /* Maroon red color for heading */
+}
+
+.contactus-fullpage h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px; /* Adjusted margin for balanced spacing */
+  margin-top: 20px; /* Added margin for more space */
+  color: #fdfdfe; /* Maroon red color for subheading */
+}
+
+.contactus-fullpage p,
+.contactus-fullpage ul,
+.contactus-fullpage li,
+.contactus-fullpage a {
+  font-size: 18px;
+  margin-bottom: 5px; /* Reduced margin for more compact spacing */
+}
+
+.contactus-fullpage .inquiries {
+  color: white; /* White color for Inquiries */
+}
+
+.contactus-fullpage a {
+  color: white;
+  text-decoration: none;
+}
+
+.contactus-fullpage a:hover {
+  text-decoration: underline;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 400px;
+  background-color: #fdf9f9; /* White form background */
+  padding: 15px; /* Reduced padding for more compact spacing */
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+  color: #000; /* Black text for form content */
+  text-align: left; /* Align text to the left */
+}
+
+.form-group {
+  margin-bottom: 10px; /* Reduced margin for more compact spacing */
+}
+
+.form-group label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc; /* Light grey border */
+  border-radius: 3px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  background-color: #fff; /* White input background */
+  color: #000; /* Black text for inputs */
+}
+
+.form-group textarea {
+  resize: vertical;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff; /* Blue button */
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  color: white;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.contactus-fullpage .thank-you {
+  font-size: 18px;
+  color: #0a9938; /* Maroon color for success message */
+  font-weight: bold; /* Bold for emphasis */
+  margin-top: 15px; /* Adjusted margin for balanced spacing */
+}

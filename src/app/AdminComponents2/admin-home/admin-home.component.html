@@ -1,0 +1,37 @@
+<app-header-admin></app-header-admin>
+<app-navigationbar-admin></app-navigationbar-admin>
+<div class="container">
+  <div class="content">
+    <!-- Cards for statistics -->
+    <div class="cards">
+      <div class="card">
+        <h3>Total Registered Cars</h3>
+        <p>{{carCount}}</p>
+      </div>
+      <div class="card">
+        <h3>Registered Users</h3>
+        <p>{{usersCount}}</p>
+      </div>
+      <div class="card">
+        <h3>Total Rental Agents</h3>
+        <p>{{agentsCount}}</p>
+      </div>
+      <div class="card">
+        <h3>Areas We Serve</h3>
+        <p>{{locationsCount}}</p>
+      </div>
+    </div>
+
+    <!-- Statistical charts section -->
+    <div class="charts mt-5">
+      <div class="chart">
+        <h3>Miles Statistics</h3>
+        <canvas id="milesChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Car Statistics</h3>
+        <canvas id="carChart"></canvas>
+      </div>
+    </div>
+  </div>
+</div>

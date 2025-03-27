@@ -1,0 +1,22 @@
+.table {
+    font-size: 14px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 2px solid black;
+}
+thead th {
+    /* font-weight: bold; */
+    /* text-transform: uppercase; */
+    text-align: center;
+    background-color: #edd1d1;
+}
+button{
+    background-color: #ffffff;
+    border: none;
+    color: rgb(212, 23, 23);
+}
+button:hover{
+    background-color: #ffffff;
+    border: none;
+    color: black;
+}

@@ -1,0 +1,92 @@
+<main class="d-flex">
+    <!-- Filter Section -->
+    <!-- <div class="filter-section p-3"> -->
+    <!-- <div class="container"> -->
+    <!-- Filter Button -->
+    <div class="row pt-3 ps-0 g-2 align-items-center justify-content-center flex-wrap">
+        <div class="col-12">
+            <button class="btn filter-btn w-100 ms-5" data-bs-toggle="collapse" data-bs-target="#filterOptions">
+                <i class="bi bi-funnel"></i>
+                Filter
+            </button>
+        </div>
+    </div>
+
+    <!-- Collapsible Filter Options -->
+    <div id="filterOptions" class="collapse mt-3">
+        <!-- Dropdowns -->
+        <div class="row g-2 align-items-center ms-5">
+            <!-- <div class="col-12">
+                        <select class="form-select rounded-dropdown" aria-label="City" ></select>
+                            <option selected disabled>City</option>
+                            @for(city of cities; track $index) {
+                                <option [value]="city">{{city}}</option>
+                                }
+                                
+                        </select> -->
+            <!-- <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedCity">
+                    <option value="" selected disabled>City</option>
+                    <option *ngFor="let city of cities" [value]="city">{{ city }}</option>
+                </select>
+            </div> -->
+            <!-- State -->
+            <!-- <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedState">
+                    <option value="" selected disabled>State</option>
+                    <option *ngFor="let state of states" [value]="state">{{ state }}</option>
+                </select>
+            </div> -->
+
+            <!-- Color -->
+            <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedColour">
+                    <option value="" selected disabled>Color</option>
+                    <option *ngFor="let colour of carColours" [value]="colour">{{ colour }}</option>
+                </select>
+            </div>
+
+            <!-- Year -->
+            <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedYear">
+                    <option value="" selected disabled>Year</option>
+                    <option *ngFor="let year of modelYears" [value]="year">{{ year }}</option>
+                </select>
+            </div>
+
+            <!-- Seats -->
+            <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedSeats">
+                    <option value="" selected disabled >Seats</option>
+                    <option *ngFor="let seat of seats" [value]="seat">{{ seat }}</option>
+                </select>
+            </div>
+
+
+
+            <!-- Status -->
+            <div class="col-12">
+                <select class="form-select rounded-dropdown" [(ngModel)]="SelectedAvailablestatus">
+                    <option value="" selected disabled>Status</option>
+                    <option *ngFor="let status of availability" [value]="status">{{ status }}</option>
+                </select>
+            </div>
+            <!-- Price Range -->
+            <!-- <div class="col-12 d-flex align-items-center mt-2">
+                <label class="price-range-label me-2">Price Range:</label>
+                <div class="price-input">
+                    <input class="min-price" type="number" [(ngModel)]="SelectedMinPrice" placeholder="Minimum Price" min="2000" />
+                    <input class="max-price" type="number" [(ngModel)]="SelectedMaxPrice" placeholder="Maximum Price" min="2100" />
+                </div>
+            </div> -->
+            <div class="col-12 d-flex align-items-center mt-2">
+                <button class="btn apply-filter-btn" (click)="applyFilters()">
+                    <!-- <i class="bi bi-funnel"></i> -->
+                    Apply Filters
+                </button>
+            </div>
+        </div>
+        <!-- </div> -->
+        <!-- </div> -->
+    </div>
+</main>

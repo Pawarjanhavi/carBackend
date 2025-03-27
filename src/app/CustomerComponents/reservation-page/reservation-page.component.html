@@ -1,0 +1,83 @@
+<app-header></app-header>
+
+<div class="reservation-card">
+    <div class="car-image">
+        <img class="img-fluid img-responsive rounded" [src]="receivedCarDetails.imageUrl" />
+    </div>
+    <!-- Car Details Section -->
+    <div class="car-details">
+        <h3 class="car-title text-danger">{{receivedCarDetails.make}} - {{receivedCarDetails.model}}</h3>
+        <div class="car-info">
+            <p><strong>Color:</strong> {{receivedCarDetails.colour}}</p>
+            <p><strong>Model Year:</strong> {{receivedCarDetails.year}}</p>
+            <p><strong>Seats:</strong> {{receivedCarDetails.totalSeats}} Seater</p>
+            <p><strong>License Plate:</strong> {{receivedCarDetails.licensePlate}}</p>
+            <p><strong>Available Date:</strong> {{receivedCarDetails.availableDate}}</p>
+            <p><strong>PickUp Location:</strong> {{receivedCarDetails.address}}, {{receivedCarDetails.city}},
+                {{receivedCarDetails.state}} - {{receivedCarDetails.zipCode}}</p>
+            <div class="car-status" style="font-size: 18px; font-weight: 400;">
+                <span class="price">{{receivedCarDetails.pricePerDay | currency:'INR'}} / day</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reservation Details Section -->
+    <div class="reservation-details">
+        <h3>Reservation Details</h3>
+        <div class="form-group">
+            <label for="pickupDate">Pick-Up Date:</label>
+            <input type="date" id="pickupDate" class="form-control" [(ngModel)]="pickUpDate"
+                (ngModelChange)="calculateAmount()" />
+        </div>
+        <div class="form-group">
+            <label for="dropOffDate">Drop-Off Date:</label>
+            <input type="date" id="dropOffDate" class="form-control" [(ngModel)]="dropOffDate"
+                (ngModelChange)="calculateAmount()" />
+        </div>
+        <p><strong>Total Amount:</strong> {{calculateTotalAmount}}</p>
+        <button class="btn btn-primary btn-proceed" (click)="openPaymentModal()">Proceed to Pay</button>
+        <button class="btn btn-secondary btn-cancel mt-3" (click)="onCancel()">Cancel</button>
+    </div>
+</div>
+
+<!-- Modal For payment -->
+<div class="modal fade" id="paymentModal" tabindex="-1" role="dialog" aria-labelledby="paymentModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title" id="paymentModalLabel">Payment Details</h4>
+                <!-- <button style="margin-left: 300px; width: 50px; height: auto;" type="button" class="close" (click)="closePaymentModal()" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button> -->
+            </div>
+            <!-- Modal Body -->
+            <div class="modal-body">
+                <!-- <p><strong>Brand Name:</strong> {{receivedCarDetails.make}}</p> -->
+                <p><strong>Model:</strong> {{receivedCarDetails.model}}</p>
+                <p><strong>Color:</strong> {{receivedCarDetails.colour}}</p>
+                <p><strong>License Plate:</strong> {{receivedCarDetails.licensePlate}}</p>
+                <p><strong>PickUp Location:</strong> {{receivedCarDetails.address}}, {{receivedCarDetails.city}},
+                    {{receivedCarDetails.state}} - {{receivedCarDetails.zipCode}}</p>
+                <p><strong>Pickup Date:</strong> {{pickUpDate}} <strong>Drop-Off Date:</strong> {{dropOffDate}}</p>
+                <!-- <p><strong>Drop-Off Date:</strong> {{dropOffDate}}</p> -->
+                <p><strong>Price Per Day:</strong> {{receivedCarDetails.pricePerDay | currency:'INR'}}</p>
+                <p><strong>Total Amount:</strong> {{calculateTotalAmount | currency:'INR'}}</p>
+                <label for="payment-mode">Payment Mode:</label>
+                <select name="payment-mode" id="payment-type" [(ngModel)]="paymentDetails.paymentType"
+                    class="form-control">
+                    <option value="" disabled>Select Payment Mode</option>
+                    <option value="UPI">UPI - GPay, PhonePe</option>
+                    <option value="Card">Card</option>
+                </select>
+
+            </div>
+            <!-- Modal Footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" (click)="payNow()">Pay Now</button>
+                <button type="button" class="btn btn-danger" (click)="closePaymentModal()">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>

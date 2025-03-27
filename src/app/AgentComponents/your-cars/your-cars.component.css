@@ -1,0 +1,186 @@
+/* General Body Styles */
+body {
+    background: #f9f9f9;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Main Layout */
+main {
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* Car Details Section */
+.car-details-container {
+    flex: 1;
+    padding: 0px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+/* Card Styling */
+.car-details-card {
+    width: 400px;
+    height: 500px;
+    margin: 15px;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.car-details-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.3s ease;
+}
+
+/* Image */
+.car-image img {
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Title */
+.car-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #dc3545;
+}
+
+/* Information Section */
+.car-info {
+    text-align: left;
+    font-size: 0.9rem;
+    color: #444;
+}
+.car-info p {
+    margin-bottom: 5px;
+}
+
+.price {
+    font-size: 20px;
+}
+
+/* Status Section */
+.car-status {
+    display: flex;
+    column-gap: 130px;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.car-status .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #FF5722;
+}
+
+/* Price Hover Effect */
+.car-details-card:hover .price {
+    color: #ff7849;
+}
+
+/* Book Now Button */
+.book-btn {
+    background-color: #dc3545;
+    border: none;
+    color: #fff;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.book-btn:hover {
+    background-color: #fff;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
+
+/* Car Actions (Update & Delete Buttons) */
+.car-actions {
+    display: flex;
+    justify-content: space-between; /* Positions buttons on the left and right */
+    margin-top: 15px;
+}
+
+/* Update and Delete Button Styling */
+.book-btn, .delete-btn {
+    background-color: #dc3545;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.book-btn:hover, .delete-btn:hover {
+    background-color: #fff;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}
+
+/* Delete button specific style (optional) */
+.delete-btn {
+    background-color: #f44336; /* Red color for delete */
+}
+
+.delete-btn:hover {
+    background-color: #fff;
+    color: #f44336;
+    border: 1px solid #f44336;
+}
+/* Style the alert popup */
+.alert {
+    padding: 10px 15px;
+    margin: 10px 0;
+    border-radius: 8px; /* Rounded corners */
+    font-size: 14px; /* Smaller font size */
+    width: auto; /* Auto width to make it smaller */
+    display: inline-block; /* Inline block for smaller size */
+    position: fixed; /* Fixed position for popup */
+    top: 20px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    z-index: 1000; /* Ensure it appears above other elements */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for better visibility */
+    animation: fadeOut 3s forwards; /* Optional: Add fade-out effect */
+}
+
+/* Success message style */
+.alert-success {
+    background-color: #d4edda; /* Light green background */
+    color: #155724; /* Dark green text */
+    border: 1px solid #c3e6cb; /* Border to match the background */
+}
+
+/* Error message style */
+.alert-danger {
+    background-color: #f8d7da; /* Light red background */
+    color: #721c24; /* Dark red text */
+    border: 1px solid #f5c6cb; /* Border to match the background */
+}
+
+/* Optional: Add a fade-out effect after a few seconds */
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}

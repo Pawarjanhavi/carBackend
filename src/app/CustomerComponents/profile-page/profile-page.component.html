@@ -1,0 +1,115 @@
+<app-header></app-header>
+
+<div class="container d-flex justify-content-center align-items-center" style="margin-top: 50px;">
+  <!-- Current Details Card -->
+  <div *ngIf="!isEditing" class="card shadow-lg"
+    style="width: 500px; border: 2px solid #dc3545; border-radius: 15px; overflow: hidden;">
+    <div class="card-header text-center" style="background-color: #b91024; color: white; padding: 15px;">
+      <h5>User Information</h5>
+    </div>
+    <div class="card-body" style="background-color: #f9f9f9;">
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item d-flex justify-content-between align-items-center"
+          style="background-color: #e6f7ff;">
+          <span><strong>First Name:</strong></span>
+          <span>{{user.firstName}}</span>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center"
+          style="background-color: #e6f7ff;">
+          <span><strong>Last Name:</strong></span>
+          <span>{{user.lastName}}</span>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center"
+          style="background-color: #e6f7ff;">
+          <span><strong>Email:</strong></span>
+          <span>{{user.email}}</span>
+        </li>
+        <li class="list-group-item d-flex justify-content-between align-items-center"
+          style="background-color: #e6f7ff;">
+          <span><strong>Phone:</strong></span>
+          <span>{{user.phoneNumber}}</span>
+        </li>
+      </ul>
+    </div>
+    <div class="card-footer text-center" style="background-color: #f9f9f9; padding: 15px;">
+      <button class="btn btn-success btn-sm me-2 p-2 w-25" style=" border-radius: 10px;"
+        (click)="editUser()">Edit</button>
+      <button class="btn btn-primary btn-sm me-2 p-2 w-25" style=" border-radius: 10px;" (click)="onResetModal()">Reset
+        Password</button>
+      <button class="btn  btn-danger btn-sm p-2 w-25" style="color: white; border-radius: 10px;"
+        (click)="deleteUser()">Delete</button>
+    </div>
+  </div>
+
+  <!-- Update Details Card -->
+  <div *ngIf="isEditing" class="card shadow-lg"
+    style="width: 500px; border: 2px solid #b91024; border-radius: 15px; overflow: hidden;">
+    <div class="card-header text-center" style="background-color: #b91024; color: white; padding: 15px;">
+      <h5>Edit User Information</h5>
+    </div>
+    <div class="card-body" style="background-color: #f9f9f9;">
+      <form>
+        <div class="mb-3">
+          <label for="firstName" class="form-label"><strong>First Name:</strong></label>
+          <input type="text" class="form-control" id="firstName" name="firstName" [(ngModel)]="user.firstName"
+            placeholder="Enter First Name" required />
+        </div>
+        <div class="mb-3">
+          <label for="lastName" class="form-label"><strong>Last Name:</strong></label>
+          <input type="text" class="form-control" id="lastName" name="lastName" [(ngModel)]="user.lastName"
+            placeholder="Enter Last Name" required />
+        </div>
+        <div class="mb-3">
+          <label for="email" class="form-label"><strong>Email:</strong></label>
+          <input type="email" class="form-control" id="email" name="email" [(ngModel)]="user.email"
+            placeholder="Enter Email" required />
+        </div>
+        <div class="mb-3">
+          <label for="phone" class="form-label"><strong>Phone:</strong></label>
+          <input type="tel" class="form-control" id="phone" name="phoneNumber" [(ngModel)]="user.phoneNumber"
+            placeholder="Enter Phone Number" required />
+        </div>
+      </form>
+
+    </div>
+    <div class="card-footer text-center" style="background-color: #f9f9f9; padding: 15px;">
+      <button class="btn btn-success btn-sm p-2 w-25" style="border-radius: 10px;" (click)="saveUser()">Save</button>
+      <button class="btn btn-secondary btn-sm ms-2 p-2 w-25" style="border-radius: 10px;"
+        (click)="cancelEdit()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal For reset password -->
+<div class="modal fade" id="resetPassModal" tabindex="-1" role="dialog" aria-labelledby="resetModalLabel"
+  >
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title" id="resetModalLabel">Reset Password</h4>
+        <!-- <button style="margin-left: 300px; width: 50px; height: auto;" type="button" class="close" (click)="closePaymentModal()" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+              </button> -->
+      </div>
+      <!-- Modal Body -->
+      <div class="modal-body">
+        <form [formGroup]="resetPassForm">
+
+          <label for="">Old Password:</label>
+          <input type="text" class="form-control" formControlName="oldPassword" required>
+          <div>
+            <label for="">New Password:</label>
+            <input type="text" class="form-control" formControlName="newPassword" required>          
+          </div>
+        </form>
+      </div>
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" (click)="updatePassword()">Save</button>
+        <button type="button" class="btn btn-danger" (click)="closeResetModal()">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>

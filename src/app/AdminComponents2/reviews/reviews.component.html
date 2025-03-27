@@ -1,0 +1,100 @@
+<app-header-admin></app-header-admin>
+<app-navigationbar-admin></app-navigationbar-admin>
+<button class="btn mt-3" style="margin-left: 260px;" (click)="getUserReviews()"><i class="fas fa-users me-1"></i>Users
+    Review</button>
+<button class="btn mt-3" style="margin-left: 5px;" (click)="getCarRatings()"><i class="fas fa-car me-1"></i> Car
+    Ratings</button>
+
+<div class="rating-container p-2" *ngIf="showRatings"
+    style="width: 80vw; height: auto; margin-left: 250px; margin-top: 1px;">
+    <!-- Content for Ratings -->
+    <div class="row">
+        <div class="col-40">
+            <div style="border-radius: 10px;">
+                <h3 class="text-center p-2" title="All reviews detail of car"
+                    style="cursor: pointer; background-color:#db3649; color: aliceblue;border: 2px solid #db3649; border-radius: 5px;">
+                    All Ratings of Car
+                </h3>
+            </div>
+            <table class="table table-bordered table-striped shadow-sm bg-dark">
+                <!-- Table Header -->
+                <thead class="bg-dark text-light text-center">
+                    <tr>
+                        <th scope="col" style="width: 2%;">S.No.</th>
+                        <th scope="col" style="width: 16%;">Car Model</th>
+                        <th scope="col" style="width: 5%;">Car Number</th>
+                        <th scope="col" style="width: 3%;">Seats</th>
+                        <th scope="col" style="width: 5%;">Colour</th>
+                        <th scope="col" style="width: 10%;">Price</th>
+                        <th scope="col" style="width: 35%;">Location</th>
+                        <th scope="col" style="width: 3%;">Average Rating</th>
+                        <th scope="col" style="width: 3%;">Total Ratings</th>
+                    </tr>
+                </thead>
+                <!-- Table Body -->
+                <tbody>
+                    <tr *ngFor="let review of allReviews; let i = index" class="text-justify align-middle">
+                        <th scope="row" class="fw-bold">{{ i + 1 }}</th>
+                        <td>{{ review.model }}({{review.year}})</td>
+                        <td>{{ review.licensePlate }}</td>
+                        <td>{{ review.totalSeats }}</td>
+                        <td>{{ review.colour }}</td>
+                        <td>{{ review.pricePerDay | currency:'INR' }}/day</td>
+                        <td>{{ review.address }},{{ review.city }},{{ review.state }}-{{ review.zipCode }}</td>
+                        <td>{{ review.rating }}</td>
+                        <td>{{ review.totalRatings }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="review-container p-2" *ngIf="showReviews"
+    style="width: 80vw; height: auto; margin-left: 250px; margin-top: 1px;">
+    <!-- Content for Reviews -->
+    <div class="row">
+        <div class="col-40">
+            <div style="border-radius: 10px;">
+                <h3 class="text-center p-2" title="All reviews of car by user"
+                    style="cursor: pointer; background-color:#db3649; color: aliceblue;border: 2px solid #db3649; border-radius: 5px;">
+                    All Reviews of Car by User
+                </h3>
+            </div>
+            <table class="table table-bordered table-striped shadow-sm bg-dark">
+                <!-- Table Header -->
+                <thead class="bg-dark text-light text-center">
+                    <tr>
+                        <th scope="col" style="width: 2%;">S.No.</th>
+                        <th scope="col" style="width: 12%;">Customer Name</th>
+                        <th scope="col" style="width: 10%;">Email</th>
+                        <th scope="col" style="width: 20%;">Car Model</th>
+                        <th scope="col" style="width: 5%;">Car Number</th>
+                        <th scope="col" style="width: 3%;">Rating </th>
+                        <th scope="col" style="width: 30%;">Review</th>
+                        <th scope="col" style="width: 10%;">Created At</th>
+                        <th scope="col" class="text-center"><i class="bi bi-gear" style="color: #dc345d;"></i> Actions
+                        </th>
+                    </tr>
+                </thead>
+                <!-- Table Body -->
+                <tbody>
+                    <tr *ngFor="let review of allUserReviews; let i = index" class="text-justify align-middle">
+                        <th scope="row" class="fw-bold">{{ i + 1 }}</th>
+                        <td>{{ review.firstName }} {{review.lastName}}</td>
+                        <td>{{ review.email }}</td>
+                        <td>{{ review.model }}</td>
+                        <td>{{ review.licensePlate }}</td>
+                        <td>{{ review.rating }}</td>
+                        <td>{{ review.reviewText }}</td>
+                        <td>{{ review.reviewCreatedAt }}</td>
+                        <td class="text-center">
+                            <i class="bi bi-trash3 text-danger" style="cursor: pointer;" title="Delete"></i>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

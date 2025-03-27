@@ -1,0 +1,18 @@
+<div class="car-reviews-section">
+  <h2>What Our Clients Say</h2>
+  <div class="reviews-container">
+    <div class="review" *ngFor="let review of reviews">
+      <div class="review-header">
+        <img [src]="review.photo" alt="User Photo" class="user-photo" />
+      </div>
+      <p class="quote">
+        <span class="quote-mark">“</span>{{ review.feedback }}
+        <span class="quote-mark">”</span>
+      </p>
+      <p class="user-info">
+        <strong>{{ review.name }}</strong><br />
+        <span>{{ review.vehicle }}</span>
+      </p>
+    </div>
+  </div>
+</div>

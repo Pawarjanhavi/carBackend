@@ -1,0 +1,64 @@
+/* Navbar styling */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* background-color: #f3c9c9; */
+    background-color: #f9efef;
+    height: 76px;;
+    /* background-color: #f9efef; */
+
+  }
+  
+  .navbar-brand img {
+    margin-left: 0px;
+    /* height: 60px; */
+  }
+  
+  .nav-link {
+    font-weight: 400;
+    color: #000;
+  }
+  
+  .nav-link.text-danger {
+    color: #dc3545;
+  }
+  
+  .nav-link:hover {
+    color: #dc3545;
+  }
+  .search-bar{
+    width: 280px;
+  }
+  .search-btn{
+    height: 40px;
+    border: 1px solid #dc3545;
+    color: #000;
+  }
+  .search-btn:hover{
+    background-color: #dc3545;
+    color: #f9efef;
+  }
+  /* For the toggler button */
+  .navbar-toggler-icon {
+    background-color: #b84343;
+  }
+
+ /* Hover styling */
+.dropdown-item.hovered {
+  background-color: #f0f0f0; /* Hover background color */
+  color: #000; /* Text color for hover */
+  cursor: pointer;
+}
+
+/* Active styling */
+.dropdown-item.active {
+  background-color: #dc3545; /* Active background color */
+  color: #fcf6f6; /* Text color for active state */
+  cursor: pointer;
+}
+
+/* Optional: Special style for Logout */
+.dropdown-item.text-danger.hovered {
+  background-color: #f4efef; /* Hover color for Logout */
+}
+
+/*  */

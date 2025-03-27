@@ -1,0 +1,181 @@
+/* Set the entire page background color to a gradient */
+body {
+    background: linear-gradient(to right, #141E30, #243B55);  /* Gradient background */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Optional: Choose a clean font */
+    color: white; /* Set default text color to white for better readability */
+  }
+  
+  /* Container for the entire form */
+  .container {
+    margin-left: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align items at the top of the container */
+    height: 100vh;  /* Full viewport height */
+    padding: 20px;
+    position: relative;
+    background: transparent; /* Ensure the container background is transparent */
+  }
+  
+  /* Form Container Styling */
+  .form-container {
+    background: white; /* Change form background to white */
+    padding: 30px; /* Reduced padding to decrease height */
+    border-radius: 15px;
+    border: 2px solid #dc345d;
+    width: 650px; /* Expanded width */
+    max-width: 100%; /* Ensure it adapts to screen size */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Increased gap between form fields */
+    margin-top: 40px; /* Moved the form a bit down */
+    color: black; /* Set text color to black for better readability */
+  }
+  
+  /* Logo Image Styling */
+  .project-logo-img {
+    width: 200px; /* Adjusted width for the logo */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto 20px; /* Center align and space between logo and header */
+  }
+  
+  /* Header Styling */
+  h2 {
+    text-align: center;
+    color: black; /* Set header text color to black */
+    font-weight: bold;
+    font-size: 40px; /* Slightly larger font for better readability */
+    margin-bottom: 20px;
+  }
+  
+  /* Label Styling */
+  label {
+    font-size: 16px; /* Larger font size for labels */
+    color: rgb(8, 8, 8); /* Set label text color to black */
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  /* Input and Textarea Styling */
+  input,
+  textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px; /* Increased font size for inputs */
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+    background-color: #f9f9f9; /* Light background for inputs */
+    color: black; /* Black text color for inputs */
+  }
+  
+  input:focus,
+  textarea:focus {
+    border-color: #800000;
+    outline: none;
+  }
+  
+  /* Styling for the description textarea */
+  textarea {
+    height: 100px; /* Increased height of the description textarea */
+  }
+  
+  /* Checkbox Container Styling */
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Gap between label and checkbox */
+  }
+  
+  /* Checkbox Wrapper Styling */
+  .checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Gap between checkbox and span */
+  }
+  
+  /* Checkbox Styling */
+  input[type="checkbox"] {
+    transform: scale(1.2);
+  }
+  
+  /* Button Styling */
+  button[type="submit"] {
+    width: 100%;
+    padding: 14px;
+    background-color: red;  /* Red background for submit button */
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px; /* Increased font size for button */
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #a00000;
+  }
+  
+  /* Styling for the Available Date */
+  input[type="date"] {
+    padding: 12px;
+    font-size: 16px; /* Increased font size for date input */
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9; /* Light background for date input */
+    color: black; /* Black text color for date input */
+  }
+  
+  /* Styling for the Available Status checkbox */
+  input[type="checkbox"] {
+    margin-left: 5px;
+    transform: scale(1.2);
+  }
+  
+  /* Image Upload Button Styling */
+  input[type="file"] {
+    padding: 12px;
+    margin-top: 8px;
+    font-size: 16px; /* Increased font size for file input */
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    display: block;
+    background-color: #800000; /* Red background for file input */
+    color: white; /* White text color for file input */
+  }
+  
+  /* Ensure the form looks good on mobile */
+  @media screen and (max-width: 768px) {
+    .form-container {
+      width: 90%; /* Adjust width for smaller screens */
+    }
+  
+    h2 {
+      font-size: 26px; /* Adjusted font size for smaller screens */
+    }
+  }
+  
+  /* Further optimization for very small screens */
+  @media screen and (max-width: 480px) {
+    .form-container {
+      width: 95%; /* More narrow width on very small screens */
+    }
+  
+    h2 {
+      font-size: 22px; /* Adjusted font size for very small screens */
+    }
+  
+    /* Reduce padding of form inputs for small screens */
+    input, textarea, button[type="submit"] {
+      padding: 10px;
+    }
+  }
+  
