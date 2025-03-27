@@ -1,0 +1,72 @@
+.car-reviews-section {
+  text-align: center;
+  padding: 50px 20px;
+  /*background: url('/images/car-image2.jpg') no-repeat center; /* Set background to match */
+  color: #edb0b0;
+}
+
+.car-reviews-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #ffffff; /* Adjust for dark background */
+}
+
+.reviews-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.review {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  max-width: 300px;
+  margin: 15px;
+  text-align: center;
+  border: 3px solid #bc1401; /* Matches red styling in image */
+}
+
+.review-header {
+  display: flex;
+  justify-content: center;
+}
+
+.user-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-top: -50px;
+  border: 5px solid #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.quote {
+  font-style: italic;
+  color: #333;
+  margin: 20px 0;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.quote-mark {
+  color: #e74c3c;
+  font-size: 2rem;
+}
+
+.user-info {
+  margin-top: 15px;
+  color: #333;
+}
+
+.user-info strong {
+  font-size: 1.2rem;
+  color: #000;
+}
+
+.user-info span {
+  font-size: 1rem;
+  color: #777;
+}

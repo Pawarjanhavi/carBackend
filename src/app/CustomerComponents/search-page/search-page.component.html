@@ -1,0 +1,61 @@
+<!-- <p>search-page works!</p> -->
+<app-header></app-header>
+<main>
+    <div class="d-flex">
+        <!-- Car Details Section -->
+        <div class="car-details-container">
+            <div class="car-list d-flex flex-wrap">
+                @for (carItem of carDetails; track $index) {
+                <div class="car-details-card">
+                    <div class="car-image">
+                        <img class="img-fluid img-responsive rounded" [src]="carItem.imageUrl">
+                    </div>
+                    <h3 class="car-title text-danger mt-2">{{carItem.model}} <span
+                            style="font-size: 14px;">({{carItem.year}})</span></h3>
+                    <div class="car-info mt-2">
+                        <p>
+                            <strong><i class="bi bi-palette-fill" style="color: #d03b3b;"></i></strong> <strong
+                                class="ms-2">{{carItem.colour}}</strong>
+                            <strong class="ms-3"><i class="bi bi-car-front-fill" style="color: #d03b3b;"></i></strong>
+                            <strong class="ms-2">{{carItem.licensePlate}}</strong>
+                            <strong class="ms-3">
+                                <i class="fas fa-car-side" style="color: #d03b3b;"></i>
+                            </strong><strong class="ms-2">{{carItem.totalSeats}} Seater</strong>
+                        </p>
+                        <!-- <p><strong>Model Year:</strong> {{carItem.year}}</p> -->
+                        <!-- <p>
+                                <strong>
+                                    <i class="fas fa-car-side" style="color: #d03b3b;"></i>
+                                </strong> {{carItem.totalSeats}} Seater
+                            </p> -->
+                        <!-- <p><strong><i class="bi bi-car-front-fill" style="color: #d03b3b;"></i></strong> {{carItem.licensePlate}}</p> -->
+                        <p><strong><i class="bi bi-calendar" style="color: #d03b3b;"></i></strong> <strong
+                                class="ms-2">{{carItem.availableDate}}</strong></p>
+                        <p>
+                            <strong>
+                                <i class="bi bi-geo-alt-fill" style="color: #dc3545;"></i>
+                            </strong>
+                            <strong class="ms-1">
+                                {{carItem.address}}, {{carItem.city}}, {{carItem.state}} - {{carItem.zipCode}}
+                            </strong>
+                        </p>
+                        <p><strong><i class="bi bi-star-fill me-1" style="color: #fcc307;"></i></strong> <strong
+                                style="font-weight: bold;font-size: 20px;">{{carItem.rating}}</strong>({{carItem.totalRatings}})
+                        </p>
+                    </div>
+                    <div class="car-status">
+                        <span class="price" style="font-size: 18px;">{{carItem.pricePerDay | currency:'INR'}}/day</span>
+                        @if (carItem.availableStatus == true) {
+                        <span class="text-success" style="font-size: 16px; margin-left: 10px;">Available</span>
+                        } @else {
+                        <span class="text-danger" style="font-size: 16px; margin-left: 10px;">Not Available</span>
+                        }
+                    </div>
+                    <button class="btn book-btn" (click)="onBooKNow(carItem)" [disabled]="!carItem.availableStatus">Book
+                        Now</button>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</main>

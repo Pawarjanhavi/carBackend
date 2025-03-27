@@ -1,0 +1,112 @@
+/* General Body Styles */
+body {
+    background: #f9f9f9;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Main Layout */
+main {
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+}
+/* Car Details Section */
+.car-details-container {
+    flex: 1;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+/* Card Styling */
+.car-details-card {
+    width: 400px;
+    height: 500px;
+    margin: 10px;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid #dc3545;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.car-details-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    transition: 0.3s ease;
+}
+
+/* Image */
+.car-image img {
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Title */
+.car-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #dc3545;
+}
+
+/* Information Section */
+.car-info {
+    text-align: left;
+    font-size: 0.9rem;
+    color: #444;
+}
+.car-info p {
+    margin-bottom: 5px;
+}
+
+.price{
+    font-size: 20px;
+}
+
+/* Status Section */
+.car-status {
+    display: flex;
+    /* justify-content: space-between; */
+    column-gap: 130px;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.car-status .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #FF5722;
+}
+
+/* Price Hover Effect */
+.car-details-card:hover .price {
+    color: #ff7849;
+}
+
+/* Book Now Button */
+.book-btn {
+    background-color: #dc3545;
+    border: none;
+    color: #fff;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.book-btn:hover {
+    background-color: #fff;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+}

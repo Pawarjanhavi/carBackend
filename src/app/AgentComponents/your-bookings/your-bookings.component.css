@@ -1,0 +1,14 @@
+.booking-container {
+    width: 80vw;
+    margin-left: 10vw; /* To center the container on the page */
+    margin-top: 1rem;
+}
+
+.table {
+    margin: 0 auto; /* This centers the table */
+}
+
+.table th, .table td {
+    vertical-align: middle; /* Vertically aligns the content */
+    text-align: center; /* Centers text horizontally */
+}

@@ -1,0 +1,44 @@
+<app-header-admin></app-header-admin>
+<app-navigationbar-admin></app-navigationbar-admin>
+<main>
+    <div class="background"></div>
+    <div class="registration-form">
+        <form #registrationForm="ngForm">
+            <h2 class="form-heading">Add New Agent</h2>
+
+            <div class="form-group">
+                <label for="FirstName">First Name:</label>
+                <input type="text" id="first-name" name="FirstName" [(ngModel)]="registerUserObj.firstName" />
+            </div>
+            <div class="form-group">
+                <label for="LastName">Last Name:</label>
+                <input type="text" id="last-name" name="LastName" [(ngModel)]="registerUserObj.lastName" />
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" [(ngModel)]="registerUserObj.email" />
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" [(ngModel)]="registerUserObj.password" />
+            </div>
+
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" [(ngModel)]="registerUserObj.phoneNumber" />
+            </div>
+
+            <div class="form-group">
+                <label for="role">Role Type:</label>
+                <select name="role" id="role-type" [(ngModel)]="registerUserObj.roleType" (change)="onSelectOption($event)">
+                    <option value="Agent">Rental Agent</option>
+                </select>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" [disabled]="registrationForm.invalid" (click)="onRegister()">Register</button>
+        </form>
+    </div>
+</main>

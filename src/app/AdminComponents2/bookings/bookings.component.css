@@ -1,0 +1,12 @@
+.table {
+    font-size: 14px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 2px solid black;
+}
+thead th {
+    /* font-weight: bold; */
+    /* text-transform: uppercase; */
+    text-align: center;
+    background-color: #edd1d1;
+}
